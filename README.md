@@ -1,4 +1,4 @@
-🏋️‍♂️ Fitness Tracker using Python
+#🏋️‍♂️ Fitness Tracker using Python
 A Streamlit-based web application that predicts the number of kilocalories burned based on user input parameters such as Age, BMI, Exercise Duration, Heart Rate, and Body Temperature.
 
 📌 Features 🚀
