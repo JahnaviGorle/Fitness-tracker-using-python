@@ -3,6 +3,15 @@ A **Streamlit-based web application** that predicts the **number of kilocalories
 
 ---
 
+## 🌍 Live Demo  
+You can access the **Personal Fitness Tracker** application using the link below:  
+
+🔗 **[Fitness Tracker - Live App](https://fitness-tracker-using-python-tefcwaxboj6ctuc3blvptk.streamlit.app/)**  
+
+This application allows users to predict the number of kilocalories burned based on inputs like **Age, BMI, Exercise Duration, Heart Rate, and Body Temperature**.  
+
+---
+
 ## 🔹 1. Introduction  
 The **Fitness Tracker** is designed to help users estimate **calories burned** during physical activity based on personal metrics. It leverages **machine learning** to make accurate predictions and provides insights based on historical data.  
 
