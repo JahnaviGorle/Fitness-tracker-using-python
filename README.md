@@ -1,18 +1,19 @@
-# Fitness-tracker-using-python
-A Streamlit-based web application that predicts the number of kilocalories burned based on user input parameters like age, BMI, exercise duration, heart rate, and body temperature.
-Features 🚀
+🏋️‍♂️ Fitness Tracker using Python
+A Streamlit-based web application that predicts the number of kilocalories burned based on user input parameters such as Age, BMI, Exercise Duration, Heart Rate, and Body Temperature.
+
+📌 Features 🚀
 ✔️ User-friendly interface using Streamlit
 ✔️ Predicts calories burned using Random Forest Regression
-✔️ Takes user inputs such as Age, BMI, Exercise Duration, Heart Rate, and Body Temperature
-✔️ Compares user stats with other similar data points
+✔️ Accepts user inputs such as Age, BMI, Exercise Duration, Heart Rate, and Body Temperature
+✔️ Compares user stats with similar past data points
 ✔️ Displays similar calorie-burning cases for reference
 
-Tech Stack 🛠
+🛠 Tech Stack
 Frontend: Streamlit
 
 Backend: Python
 
-Machine Learning Models: Random Forest Regressor
+Machine Learning Model: Random Forest Regressor
 
 Libraries Used: pandas, numpy, matplotlib, seaborn, sklearn
 
